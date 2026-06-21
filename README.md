@@ -14,4 +14,4 @@ d) then your terminal like: **(.venv) PS C:\Users\kongc\Downloads\MACHINE LEARNI
 3. Install libraries
 
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
-
+pip install lightgbm
